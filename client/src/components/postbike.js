@@ -82,7 +82,8 @@ function BikeForm() {
         <input type="text" value={imageURL} onChange={handleImageURLChange} />
       </label>
       <br />
-      <button type="submit">Create Bike</button>
+      <br />
+      <button type="submit" style={{marginTop:"20PX"}}>Create Bike</button>
     </form>
   );
 }
