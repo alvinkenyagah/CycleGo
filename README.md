@@ -4,7 +4,7 @@
 <ol>
 <li>cd client</li>
 <li>npm install</li>
-<li>cd npm start</li>
+<li>npm start</li>
 </ol>
 
 ## Setup Server 
